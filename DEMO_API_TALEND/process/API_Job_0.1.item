@@ -162,7 +162,7 @@
   </node>
   <node componentName="tJava" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="320" posY="80">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tJava_1" show="false"/>
-    <elementParameter field="MEMO_JAVA" name="CODE" value="String link = &quot;https://meurhtst.intraeucatex.com.br/api/euca/esp/v1/operacoes-get/500?&quot;;&#xA;String user = &quot;username=mercanet&quot;;&#xA;String pass = &quot;password=conexao2025&quot;;&#xA;&#xA;api = link + user + pass&#xA;&#xA;System.out.println(api);"/>
+    <elementParameter field="MEMO_JAVA" name="CODE" value="String link = &quot;https://meurhtst.intraeucatex.com.br/api/euca/esp/v1/operacoes-get/500?&quot;;&#xA;String user = &quot;username=mercanet&quot;;&#xA;String pass = &quot;password=conexao2025&quot;;&#xA;&#xA;String api = link + user + pass&#xA;&#xA;System.out.println(api);"/>
     <elementParameter field="MEMO_IMPORT" name="IMPORT" value="//import java.util.List;"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tJava_1"/>
