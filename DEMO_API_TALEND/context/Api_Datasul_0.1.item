@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_jGM0MH7-EfCVZd-nZGnqzg" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_jGM0MX7-EfCVZd-nZGnqzg" comment="" name="url" prompt="url?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="https://meurhtst.intraeucatex.com.br/api/euca/esp/v1/operacoes-get/500"/>
+  <contextParameter xmi:id="_jGM0Mn7-EfCVZd-nZGnqzg" comment="" name="username" prompt="username?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="mercanet"/>
+  <contextParameter xmi:id="_jGM0M37-EfCVZd-nZGnqzg" comment="" name="password" prompt="password?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="conexao2025"/>
+</talendfile:ContextType>
