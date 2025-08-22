@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_UnwKsXl5EfCi7pATKDyssA" label="Demo_API_Talend" description="" language="java" technicalLabel="DEMO_API_TALEND" author="_UnwKsnl5EfCi7pATKDyssA" productVersion="Talend Cloud Data Fabric-8.0.1.20250218_0945-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/renan-target/demo-api-talend&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+  <TalendProperties:Project xmi:id="_UnwKsXl5EfCi7pATKDyssA" label="Demo_API_Talend" description="" language="java" technicalLabel="DEMO_API_TALEND" author="_UnwKsnl5EfCi7pATKDyssA" productVersion="Talend Cloud Data Fabric-8.0.1.20250730_0900-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/renan-target/demo-api-talend&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <componentsSettings xmi:id="_6TirQH8DEfCN5_mMSiYzAQ" name="DI|tHttpRequest" family="Deprecated"/>
     <migrationTask xmi:id="_UpgeMHl5EfCi7pATKDyssA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_UnwKsnl5EfCi7pATKDyssA" login="renansilva1@targetsolucoesintegradasnfr" firstName="Renan" lastName="Silva" type="DQ"/>
