@@ -357,8 +357,8 @@
     <elementParameter field="TEXT" name="configuration.dataset.datastore.authentication.oauth20.customHeaderName" value="Authorization" show="false"/>
     <elementParameter field="CHECK" name="configuration.dataset.datastore.authentication.oauth20.customizeTokenPrefix" value="false" show="false"/>
     <elementParameter field="TEXT" name="configuration.dataset.datastore.authentication.oauth20.customTokenPrefix" value="Bearer" show="false"/>
-    <elementParameter field="TEXT" name="configuration.dataset.datastore.connectionTimeout" value="30000"/>
-    <elementParameter field="TEXT" name="configuration.dataset.datastore.receiveTimeout" value="120000"/>
+    <elementParameter field="TEXT" name="configuration.dataset.datastore.connectionTimeout" value="30000000"/>
+    <elementParameter field="TEXT" name="configuration.dataset.datastore.receiveTimeout" value="120000000"/>
     <elementParameter field="CHECK" name="configuration.dataset.datastore.bypassCertificateValidation" value="false"/>
     <elementParameter field="CHECK" name="configuration.dataset.datastore.useProxy" value="false"/>
     <elementParameter field="CLOSED_LIST" name="configuration.dataset.datastore.proxyConfiguration.proxyType" value="HTTP" show="false"/>
