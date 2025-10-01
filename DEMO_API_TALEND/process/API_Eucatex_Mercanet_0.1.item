@@ -333,8 +333,8 @@
     <elementParameter field="TABLE" name="configuration.dataset.pathParams" show="false"/>
     <elementParameter field="CHECK" name="configuration.dataset.hasQueryParams" value="false"/>
     <elementParameter field="TABLE" name="configuration.dataset.queryParams" show="false"/>
-    <elementParameter field="CHECK" name="configuration.dataset.hasHeaders" value="true"/>
-    <elementParameter field="TABLE" name="configuration.dataset.headers"/>
+    <elementParameter field="CHECK" name="configuration.dataset.hasHeaders" value="false"/>
+    <elementParameter field="TABLE" name="configuration.dataset.headers" show="false"/>
     <elementParameter field="CHECK" name="configuration.dataset.hasBody" value="true"/>
     <elementParameter field="CLOSED_LIST" name="configuration.dataset.body.type" value="TEXT"/>
     <elementParameter field="TACOKIT_TEXT_AREA" name="configuration.dataset.body.textValue" value="{.input.body}&#xD;&#xA;"/>
